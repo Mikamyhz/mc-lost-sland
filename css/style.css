@@ -2,7 +2,7 @@
 @font-face {
     font-family: 'Minecraft Five';
     src: url('font/MinecraftFive-Regular.woff2') format('woff2'),
-        url('font/MinecraftFive-Regular.woff') format('woff');
+        url('../font/MinecraftFive-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
